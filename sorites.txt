@@ -1,0 +1,49 @@
+All philosophers are thinkers
+Some thinkers are scholars
+None of the scholars are fools
+Some fools are jesters
+All jesters are performers
+None of the performers are thinkers
+Some philosophers are jesters
+All scholars are wise
+Some wise are wealthy
+All wealthy are respected
+None of the respected are philosophers
+Socrates is a philosopher
+Plato is a scholar
+Aristotle is a performer
+Diogenes is a fool
+None of the fools are wise
+All fools are performers
+All jesters are respected
+Aristotle is a thinker
+Plato is wealthy
+Some performers are philosophers
+Diogenes is respected
+All thinkers are humans
+Some humans are animals
+None of the animals are philosophers
+All scholars are readers
+None of the readers are fools
+Some jesters are entertainers
+All entertainers are performers
+None of the performers are philosophers
+All fools are jesters
+Some jesters are wise
+None of the fools are respected
+Socrates is a thinker
+Plato is an entertainer
+Aristotle is a scholar
+Diogenes is a jester
+None of the wealthy are fools
+All respected are wealthy
+Some thinkers are respected
+All humans are animals
+Some animals are respected
+None of the fools are philosophers
+Socrates is respected
+Socrates is a thinker
+Plato is respected
+Aristotle is a scholar
+Diogenes is a fool
+None of the fools are wise
